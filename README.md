@@ -24,14 +24,12 @@ If your packages specify autoloading information, you can autoload all the depen
 
 require 'vendor/autoload.php';
 
-<code>
-
+```
 git clone git@github.com:acplo/zf2SkellModeloAcplo.git
+```
 
-</code>
 
-
-<code>
+```
 
 {
   "name" : "acplo/zf2skellmodeloacplo",
@@ -57,5 +55,4 @@ git clone git@github.com:acplo/zf2SkellModeloAcplo.git
   "homepage" : "http://framework.zend.com/"
 }
 
-
-</code>
+```
