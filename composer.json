@@ -5,6 +5,7 @@
   "require" : {
     "php" : ">=5.4.0",
     "zendframework/zendframework" : "~2.3",
+    "acplo/zf2skellmodeloacplo": "dev-master",
     "doctrine/doctrine-module" : "~0.8.1",
     "doctrine/doctrine-orm-module" : "~0.8",
     "acplo/acplobase" : "0.0.1",
