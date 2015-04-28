@@ -1,5 +1,5 @@
 {
-  "name" : "Acplo/zf2SkellModeloAcplo",
+  "name" : "acplo/zf2skellmodeloacplo",
   "description" : "Tutorial ZF2, Doctrine e pacotes Los",
   "version" : "0.0.3",
   "require" : {
