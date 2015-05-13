@@ -56,3 +56,10 @@ git clone git@github.com:acplo/zf2SkellModeloAcplo.git
 }
 
 ```
+
+teste
+
+```
+ commit via zend studio
+```
+
